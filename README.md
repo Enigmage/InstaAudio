@@ -1,5 +1,10 @@
 # InstaAudio
 
+- [Why](#why)
+- [Problem](#problem)
+- [Solution](#solution)
+- [Architecture](#architecture)
+
 Prototype of an easy to use text to speech application that improves the generated
 audio quality through a text preprocessing step and provides great UX.
 

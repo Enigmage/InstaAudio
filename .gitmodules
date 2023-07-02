@@ -4,3 +4,5 @@
 [submodule "InstaAudio-server"]
 	path = server
 	url = git@github.com:Enigmage/InstaAudio-server.git
+[submodule "client"]
+	branch = main
